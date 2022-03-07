@@ -9,3 +9,4 @@
 * **Enlaces:**
     * [Repositorio](https://github.com/DALO-eng/Proyecto-IA-Covid-by-Tos)
     * [Presentación](https://docs.google.com/presentation/d/19fxtx_3z8OItxS5QwPjRO9eFC-Ezx9ZqOwMxTQaGaWE/edit?usp=sharing)
+    * [Video](https://youtu.be/MfIFwNXuHVM)
